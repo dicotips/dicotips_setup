@@ -6,8 +6,8 @@ This repository contains the scripts to automatically setup a new computer (Maco
 ## 1.1. Macos Software Installation
 
 0. Pre-requisites (Optional)
-* Norman Layout 
-* 
+* [Norman Layout](https://normanlayout.info/)
+* [Oh-my-zsh](https://ohmyz.sh/#install)
 
 1. Install HomeBrew in your computer
    **Website:**  https://brew.sh/
@@ -47,3 +47,5 @@ This repository contains the scripts to automatically setup a new computer (Maco
 ```
 brew install $(cat ./macos/brew_packages.txt)
 ```
+
+5. After the installation, take a close look at the Errors and Warnings displayed in the screen. They might require additional configuration. 
