@@ -41,3 +41,5 @@ deezer
 4k-video-downloader
 textexpander
 vlc
+karabiner-elements
+steam
